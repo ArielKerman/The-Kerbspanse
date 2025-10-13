@@ -1,2 +1,2 @@
 # The-Kerbspanse
-The ultimate mod to recreate the ships from the show "The Expanse" in KSP 1.12.x. Build, fly, and imagine a futuristic colonized system!
+The ultimate mod for recreating the ships from "The Expanse" TV series in KSP 1.12.x. Build, fly, and imagine a dystopian, futuristic colonized system!
